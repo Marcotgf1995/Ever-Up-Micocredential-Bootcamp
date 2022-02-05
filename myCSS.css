@@ -1,0 +1,20 @@
+.my-bg{
+  text-align: center;
+  padding: 3em;
+  color: white;
+  background-color: red !important;
+}
+
+.card-body:hover{
+  box-shadow: 2px 5px 8px 3px gray;
+}
+.card-body:hover h3{
+  opacity: 0.5;
+}
+.card-body:hover i{
+  opacity: 0.5;
+}
+.stretched-link{
+  text-decoration: none !important;
+  color: black;
+}
